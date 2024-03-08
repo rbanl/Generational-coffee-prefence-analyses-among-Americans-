@@ -9,3 +9,4 @@ My analysis involved analysing the preference of features in coffee such as roas
 My analysis was done in Excel,  and used the chi-squared test to confirm and pivot tables for subsequent analysis of preference frequency. Results were displayed in a dashboard.
 
 
+Please find attached files above for the analyses and coffee dataset.
